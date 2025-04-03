@@ -44,8 +44,10 @@
 | Codechef   | ------     | ----       | [Link](https://www.codechef.com/users/ashraf_022)         |
 
 <h3 align="left">Problem-Solving:</h3>
-<p>I've solved over 200 problems and counting on platforms like Codeforces and Codechef. Check out my solutions on <a href="https://github.com/AshrafShuvo022/red-coder1">GitHub</a>.</p>
-<p>will be starting to solve leetcode problem. Check out my solutions on <a href="https://github.com/AshrafShuvo022/red-coder1">GitHub</a>.</p>
+<p>I've solved over 200 problems and counting on platforms like Codeforces and Codechef. Check out my solutions on <a href="https://github.com/AshrafShuvo022/red-coder1">Problem_Solutions</a>.</p>
+<p>will be starting to solve leetcode problem. Check out my solutions on <a href="https://github.com/AshrafShuvo022/red-coder1">LeetCode_Solutions</a>.</p>
+
+
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshrafShuvo022&show_icons=true&locale=en&layout=compact" alt="AshrafShuvo022" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshrafShuvo022&show_icons=true&locale=en" alt="AshrafShuvo022" /></p>
@@ -58,8 +60,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshrafShuvo022&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshrafShuvo022&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshrafShuvo022&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshrafShuvo022&theme=apprentice)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafShuvo022&repo=Hotel-Management-System&langs_count=5&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AshrafShuvo022&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
