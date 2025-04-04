@@ -11,7 +11,7 @@
 - 🌱 I’m a fresh graduate from Ahsanullah university of science and technology
 - 👨‍💻 All of my projects are available at [Here](https://github.com/AshrafShuvo022?tab=repositories)
 - 📫 Reach me at **ashraf.shuvo0222gmail.com**
-- 📄 Check out my CV [View]()
+- 📄 Check out my CV [View](https://drive.google.com/file/d/16kQNziQ7s-cLiZbLbHAkUWcbeukZErO7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
